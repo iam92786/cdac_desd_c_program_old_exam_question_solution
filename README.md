@@ -1,5 +1,5 @@
 # old_exam_question_cdac_desd
-\Write a C program to implement bank application. Your application should have multiple account. Your application should store at least 5 accounts.
+Write a C program to implement bank application. Your application should have multiple account. Your application should store at least 5 accounts.
 
  
 
